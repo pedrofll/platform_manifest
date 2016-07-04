@@ -5,7 +5,7 @@
 
   <remote  name="github"
            fetch="git://github.com/"
-           review="https://review.pedrofll.org/"/>
+           review="https://review.SlimRoms.org/"/>
 
   <default revision="refs/tags/android-6.0.1_r46"
            remote="aosp"
