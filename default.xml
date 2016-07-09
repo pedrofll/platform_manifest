@@ -20,11 +20,11 @@
   </project>
   <project path="android" name="pedrofll/android" remote="github" revision="mm" />
 
-  <project path="frameworks/av" name="pedrofll/frameworks_av" remote="github" revision="mm" />
-  <project path="external/sepolicy" name="pedrofll/android_external_sepolicy" remote="github" revision="mm" />
+  <project path="frameworks/av" name="SlimRoms/frameworks_av" remote="github" revision="mm" />
+  <project path="external/sepolicy" name="SlimRoms/android_external_sepolicy" remote="github" revision="mm" />
   <project path="frameworks/base" name="pedrofll/frameworks_base" remote="github" revision="mm" />
-  <project path="frameworks/native" name="pedrofll/frameworks_native" remote="github" revision="mm" />  
-  <project path="system/core" name="pedrofll/android_system_core" remote="github" revision="mm" />
+  <project path="frameworks/native" name="SlimRoms/frameworks_native" remote="github" revision="mm" />  
+  <project path="system/core" name="SlimRoms/android_system_core" remote="github" revision="mm" />
   <project path="packages/apps/Settings" name="pedrofll/packages_apps_Settings" remote="github" revision="mm" />
   
   <!-- New Additions for slim -->
